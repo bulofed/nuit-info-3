@@ -1,5 +1,6 @@
 <script>
-    import Hero from '$lib/components/hero/Hero.svelte';
+    import Hero from '$lib/components/landing/Hero.svelte';
+    import ExplanationSection from '$lib/components/landing/ExplanationSection.svelte';
 </script>
 
 <svelte:head>
@@ -7,3 +8,4 @@
 </svelte:head>
 
 <Hero />
+<ExplanationSection />

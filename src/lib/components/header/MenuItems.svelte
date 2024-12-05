@@ -1,7 +1,7 @@
 <script>
     export let isMenuOpen;
     const menuItems = [
-        { href: "/", text: "Jeu" },
+        { href: "/jeu", text: "Jeu" },
         { href: "/", text: "Prévention" }
     ];
 </script>
